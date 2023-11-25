@@ -1,0 +1,6 @@
+[submodule "soli_requi"]
+	path = soli_requi
+	url = https://github.com/RawwCod/soli_requi.git
+[submodule "Backend_SoliRequi"]
+	path = Backend_SoliRequi
+	url = https://github.com/RawwCod/Backend_SoliRequi.git
